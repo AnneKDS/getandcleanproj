@@ -57,4 +57,5 @@ Notes:
 1.  The numbers of the above steps are reflected in the comments of the run_analysis.R
 file.
 2.  See the CodeBook.md file for the project code book.
+3.  Github seems to reformat both this and the codebook.md file, so numbering might not match
 
